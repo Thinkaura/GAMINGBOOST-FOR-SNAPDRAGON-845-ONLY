@@ -1,5 +1,4 @@
-Creator
- - ArilSetiawan
+Credit : me
 
 # Qualcomm DROID V1
 ## Description
